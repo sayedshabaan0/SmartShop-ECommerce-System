@@ -8,12 +8,23 @@
 
 ## 🌟 Project Overview
 
-**Smart Shop** is a modern, responsive, and fully functional e-commerce web application built using **Angular** for the frontend and integrated with a scalable backend API.
-It provides a smooth online shopping experience with features like product browsing, cart management, and checkout flow.
+SmartShop is a modern, responsive E-Commerce web system built using HTML, CSS, Bootstrap, and JavaScript, with LocalStorage used as a lightweight database.
+It provides two main interfaces:
 
-**سمارت شوب** هو نظام تجارة إلكترونية حديث وسريع الاستجابة، تم بناؤه باستخدام **Angular** لواجهة المستخدم، مع تكامل كامل مع واجهة برمجة التطبيقات الخلفية.
-يوفر تجربة تسوق سلسة تشمل تصفح المنتجات، إدارة السلة، وعمليات الشراء.
+🧑‍💼 Admin Panel: Manage products, categories, and orders.
 
+🛒 Customer Panel: Browse products, add to cart, and place orders easily.
+
+The system offers a smooth shopping experience with validation, clear error messages, and simple yet effective UI components.
+
+مشروع SmartShop هو نظام تجارة إلكترونية بسيط وسريع الاستجابة، تم تطويره باستخدام HTML وCSS وBootstrap وJavaScript، مع استخدام LocalStorage لتخزين البيانات.
+يحتوي على لوحتين رئيسيتين:
+
+🧑‍💼 لوحة الإدارة: لإدارة المنتجات، الأقسام، والطلبات.
+
+🛒 لوحة العملاء: لتصفح المنتجات، وإضافة العناصر إلى السلة، وإتمام الطلبات بسهولة.
+
+يوفر النظام تجربة استخدام مريحة مع التحقق من صحة البيانات، ورسائل خطأ واضحة، وتصميم أنيق.
 ---
 
 ## 🚀 Features
@@ -123,3 +134,4 @@ Then open your browser and go to:
 If you liked this project or have feedback, feel free to connect with me via email or LinkedIn.
 
 **Thank you for visiting Smart Shop! 🙌**
+
