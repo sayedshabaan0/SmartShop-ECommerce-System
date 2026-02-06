@@ -76,7 +76,7 @@ Smart-Shop/
 Full Stack Developer
 
 📧 **Email:** [sayedshabaan678@gmail.com](mailto:sayedshabaan678@gmail.com)
-🔗 **LinkedIn:** [linkedin.com/in/sayed-shabaan0](https://www.linkedin.com/in/sayedshabaan)
+🔗 **LinkedIn:** [linkedin.com/in/sayedshabaan](https://www.linkedin.com/in/sayedshabaan)
 
 ---
 
@@ -87,6 +87,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ---
 
 **© 2025 Sayed Shabaan — All Rights Reserved**
+
 
 
 
